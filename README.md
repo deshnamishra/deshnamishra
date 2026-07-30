@@ -26,7 +26,7 @@
 |---|---|---|
 | [FamilyTree](https://github.com/deshnamishra/FamilyTree) | Full-stack family tree management system with interactive visualization. [Live demo](https://familytree-one-xi.vercel.app/) | React, Node.js, Express, MongoDB |
 | [SortSmart-AI](https://github.com/deshnamishra/SortSmart-AI) | AI-powered waste classification and carbon footprint analyser, built for Technex Green Hackathon 2026. | Python, FastAPI, React, Roboflow |
-| [RecipeBook](https://github.com/deshnamishra/recipebook) | Web app for discovering, saving, and organizing favorite recipes. | HTML, CSS, JavaScript, Firebase |
+| [RecipeBook](https://github.com/deshnamishra/recipebook) | Web app for discovering, saving, and organizing favorite recipes. [Live demo](https://recipebook-70d41.web.app/) | HTML, CSS, JavaScript, Firebase |
 | [Expense Tracker](https://github.com/deshnamishra/expensetracker) | Tracks money spent and money saved. | JavaScript |
 | [Tic-Tac-Toe Game](https://github.com/deshnamishra/Tic-Tac-Toe-Game) | Classic two-player tic-tac-toe with win detection. | Python |
 
